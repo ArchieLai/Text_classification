@@ -12,5 +12,5 @@ This implementation is based on the work of [gitE0Z9](https://github.com/gitE0Z9
 https://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 ### Requirements
-python version: 3.9.13
+python version: 3.9.13  
 pytorch version: 2.1.2
